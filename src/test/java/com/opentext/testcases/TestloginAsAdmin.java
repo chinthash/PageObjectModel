@@ -16,5 +16,4 @@ public class TestloginAsAdmin extends BaseTest {
 		page.doLogin(data.get("username"), data.get("password"));
 		Assert.fail("Manually failing testcase");
 	}
-
 }
