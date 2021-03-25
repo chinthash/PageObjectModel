@@ -1,0 +1,10 @@
+DEBUG   2021-03-24 22:03:38,790 [main] devpinoyLogger  - Log file loaded
+DEBUG   2021-03-24 22:03:38,830 [main] devpinoyLogger  - Locators.properties file loaded
+DEBUG   2021-03-24 22:03:47,173 [main] devpinoyLogger  - Chrome driver intialized
+DEBUG   2021-03-24 22:03:48,718 [main] devpinoyLogger  - Navigated to http://10.96.153.151:8080/ContentManager
+DEBUG   2021-03-24 22:03:56,211 [main] devpinoyLogger  - Clicking on locator login.submit_ID
+DEBUG   2021-03-24 22:03:58,198 [main] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG   2021-03-24 22:03:58,201 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG   2021-03-24 22:03:58,205 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG   2021-03-24 22:03:58,207 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG   2021-03-24 22:03:58,208 [main] freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/schintha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
