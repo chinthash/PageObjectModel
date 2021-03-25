@@ -86,7 +86,7 @@ public class CustomListeners extends Page implements ITestListener, ISuiteListen
 
 		try {
 			messagebody = "http://" + InetAddress.getLocalHost().getHostAddress()
-					+ ":8080/job/PageObjectModelProject/ExtentReport/";
+					+ ":8080/job/PageObjectModelFramework/ExtentReport/";
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
